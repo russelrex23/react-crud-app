@@ -1,4 +1,18 @@
-.App {
+html, body {
+  height:100%;
+}
+
+.Main {
+  /*height: 100%;*/
+  padding: 50px 50px 0 50px;
+}
+
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background-color: black;
+  width: 100%;
   text-align: center;
 }
 
